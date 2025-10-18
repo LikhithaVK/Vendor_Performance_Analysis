@@ -1,11 +1,10 @@
 # Vendor_Performance_Analysis
-A data-driven project analyzing vendor performance and purchase-to-sales profitability using SQLite, Python (Pandas, SQLAlchemy), and Matplotlib/Seaborn. It automates data ingestion, performs exploratory data analysis, and identifies top-performing vendors for optimized business decisions.
 
 📄 Executive Summary
 
 This project focuses on evaluating vendor performance using procurement data. The analysis leverages Python and SQLite3 to clean, process, and visualize purchasing data, identifying top-performing and underperforming vendors. The results provide actionable insights for improving supplier selection, negotiation, and procurement efficiency.
 
-🎯 Business Problem
+# 🎯 Business Problem
 
 Organizations often work with multiple vendors, but lack clear visibility into which ones deliver the best value. Without data-driven analysis, poor-performing vendors may continue to impact timelines, cost efficiency, and product quality.
 
@@ -15,7 +14,7 @@ Identify best and worst-performing vendors based on purchase and delivery data.
 
 Enable data-backed procurement decisions for cost optimization and supplier management.
 
-🔍 Methodology
+# 🔍 Methodology
 
 Data Extraction & Loading
 
@@ -37,7 +36,7 @@ Vendor Ranking
 
 Identified top and bottom vendors based on purchase volume, frequency, and value.
 
-🧠 Skills Demonstrated
+# 🧠 Skills Demonstrated
 
 Python (Pandas, NumPy, Matplotlib) — for data wrangling and visualization
 
@@ -49,7 +48,7 @@ Analytical Thinking — interpreting vendor performance patterns
 
 Visualization — representing trends and comparisons clearly
 
-📊 Results & Business Recommendations
+# 📊 Results & Business Recommendations
 
 Top-performing vendors identified based on consistent contribution and purchase volume.
 
@@ -59,7 +58,7 @@ Recommended periodic vendor audits to ensure sustained performance.
 
 Insights help improve procurement efficiency and supplier relationship management.
 
-🚀 Next Steps
+# 🚀 Next Steps
 
 Build an automated ETL pipeline to update vendor data periodically.
 
